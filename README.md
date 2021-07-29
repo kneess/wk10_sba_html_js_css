@@ -9,6 +9,8 @@ The purpose of this application is to bring dog lovers together and battle over 
 - People can log in by invite only - You are invited
     - #### Email: abc@mail.com
     - #### Password: abc
+![alt text]("./images/login.png")
+
 ### Technologies used
 1. HTML
 2. CSS
