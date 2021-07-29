@@ -4,9 +4,9 @@
 The purpose of this application is to bring dog lovers together and battle over who has the cutest dog.
 
 ### What can be done in the application
--People can apply to have their children featured in the blog.
--People can vote for who is the cutest dog.
--People can log in by invite only - You are invited
+- People can apply to have their children featured in the blog.
+- People can vote for who is the cutest dog.
+- People can log in by invite only - You are invited
     - Email: abc@mail.com
     - Password: abc
 
